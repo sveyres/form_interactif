@@ -1,0 +1,23 @@
+{
+  "name": "form_interactif",
+  "authors": [
+    "Sylvie <sylvie.veyres@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/external/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-validator": "^0.11.9",
+    "pwstrength-bootstrap": "^2.0.7"
+  }
+}
